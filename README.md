@@ -1,7 +1,8 @@
 <div align="center">
   <h1>👋 Hey there,</h1>
-   <h2>I’m Josh — Software Developer | Cybersecurity Specialist | UI/UX Designer </h2>
-  
+   <h1>I’m Josh</h1>
+   <h2>Software Developer | Cybersecurity Specialist | UI/UX Designer </h2>
+   <h2>Web Developer | Penetration Tester | Tech Enthuthiast</h2>
 </div>
 
 ---
