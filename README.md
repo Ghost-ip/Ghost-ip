@@ -75,9 +75,9 @@ Welcome to my GitHub! I'm a multi-talented Software Dev with a deep passion for 
 </div>
 
 
-</p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghost-ip&theme=react-dark" /> </p>
+</p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joshkihiu&theme=react-dark" /> </p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ghost-ip&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Ghost-ip GitHub streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Ghost-ip&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Joshkihiu GitHub streak graph" />
 </div>
 
