@@ -1,9 +1,13 @@
-# 👋 Hey there, I’m Josh — Software Developer | Cybersecurity Specialist | UI/UX Designer
+<div align="center">
+  <h1>👋 Hey there,</h1>
+   <h2>I’m Josh — Software Developer | Cybersecurity Specialist | UI/UX Designer </h2>
+  
+</div>
+
 ---
 Welcome to my GitHub! I'm a multi-talented Software Dev with a deep passion for building secure, elegant, and user-focused digital solutions. Whether it's crafting beautiful UIs, building scalable apps, or testing for vulnerabilities — I get it done.
 
 ---
-
 ## 💼 What I Do
 <img align="right" height="150" src="https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/18370644/hackers_white.gif?quality=90&strip=all&crop=21.875,0,56.25,100" />
 
@@ -13,10 +17,15 @@ Welcome to my GitHub! I'm a multi-talented Software Dev with a deep passion for 
 - 🌐 **Web Development** — Fast, responsive websites with modern JavaScript frameworks and solid backend logic
 - 📱 **Mobile Development** — Android (Java/Kotlin) & cross-platform Flutter apps
 - ⚙️ **Automation & Scripting** — Bash, Python, and tools to speed things up
+  
+
 ---
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ghost-ip&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Ghost-ip languages graph" />
 </div>
+-->
+
 <div align="center">
   <img src="https://img.shields.io/badge/Java-45%25-orange?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-20%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
