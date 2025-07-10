@@ -79,6 +79,11 @@ Welcome to my GitHub! I'm a multi-talented Software Dev with a deep passion for 
 </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joshkihiu&theme=react-dark" /> </p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Joshkihiu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Joshkihiu GitHub streak graph" />
+  <img
+  src="https://github-readme-streak-stats-eight.vercel.app?user=Joshkihiu&theme=dark&mode=daily&hide_border=false&border_radius=8&date_format=j%20M%5B%20Y%5D"
+  alt="Joshkihiu GitHub streak graph"
+  height="220"
+  style="border-radius: 10px; margin-top: 10px;"
+  onerror="this.onerror=null; this.src='https://via.placeholder.com/400x220?text=Error+Loading+Streak+Stats';"
+/>
 </div>
-
